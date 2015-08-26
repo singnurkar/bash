@@ -2,3 +2,4 @@
 * [Unix as an IDE](http://blog.sanctum.geek.nz/series/unix-as-ide/)
 * [Awk in 20 mins](http://ferd.ca/awk-in-20-minutes.html)
 * https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html
+* ["cut" text](http://askubuntu.com/a/302269)
