@@ -3,3 +3,6 @@
 * [Awk in 20 mins](http://ferd.ca/awk-in-20-minutes.html)
 * https://www.mankier.com/blog/explaining-shell-commands-in-the-shell.html
 * ["cut" text](http://askubuntu.com/a/302269)
+* probing files
+  * http://www.unix.com/man-page/osx/1/OTOOL/
+  * https://en.wikipedia.org/wiki/Ldd_(Unix)
