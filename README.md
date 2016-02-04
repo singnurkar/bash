@@ -7,3 +7,4 @@
   * http://www.unix.com/man-page/osx/1/OTOOL/
   * https://en.wikipedia.org/wiki/Ldd_(Unix)
 * https://github.com/robbyrussell/oh-my-zsh/wiki/Coding-style-guide
+* https://github.com/jlevy/the-art-of-command-line
